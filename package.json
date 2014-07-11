@@ -1,0 +1,32 @@
+{
+  "name": "mocha-reporter-base",
+  "version": "0.0.0",
+  "description": "Base utilities for mocha test reporters",
+  "keywords": [
+    "mocha",
+    "test",
+    "bdd",
+    "tdd",
+    "tap"
+  ],
+  "author": "TJ Holowaychuck <tj@vision-media.com>",
+  "maintainers": [
+    "travis jeffery",
+    "Oleg Gaidarenko <markelog@gmail.com>",
+    "jbnicolai <joshua@jbna.nl>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mocha-reporters/mocha-reporter-base.git"
+  },
+  "main": "./base.js",
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/mocha-reporters/mocha-reporter-base/master/LICENSE"
+    }
+  ]
+}
